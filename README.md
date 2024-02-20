@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there, I'm Mariam Davitadze! 👋
 
-<!--
-**mariam-davitadze/mariam-davitadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a skilled full-stack web developer with over five years of experience, specializing in building scalable cross-platform web applications using modern JavaScript technologies.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- TypeScript
+- ReactJS
+- NodeJS
+- ExpressJS
+- MongoDB
+- Nest.JS
+- Redux / Redux-Saga
+- SQL / PostgreSQL / MySQL
+- RestAPI
+- WebSocket / Socket.io
+- RTC / WebRTC
+- Webpack
+- CSS / SCSS / Styled Components
+- React Testing Library
+
+## Education
+
+- Bachelor of Engineering in Information Technology
+- Business and Technology University, Tbilisi, Georgia
+- 2018 - 2022
+
+## About Me
+
+I thrive in fast-paced environments, where adaptability and problem-solving are essential. Committed to continuous learning, I eagerly embrace challenges to further develop my skills in software engineering. Precision and a passion for technology drive me to deliver top-notch results.
+
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/m-davitadze/) for collaboration opportunities or to learn more about my work!
